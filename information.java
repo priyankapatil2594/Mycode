@@ -5,7 +5,7 @@ public class information {
 		System.out.println("Name- Priyanka Patil");
 		System.out.println("DOB- 25-04-1994");
 		System.out.println("Bloud group-B+");
-		System.out.println("Contact no- 7448175770");
+		
 		System.out.println("Electrical");
 	}
 
